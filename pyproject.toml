@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "web-fishing"
-version = "0.0.0"
+version = "0.0.1"
 description = "Web Fishing"
 authors = ["Kyle Oliver <56kyleoliver@gmail.com>"]
 license = "MIT"
